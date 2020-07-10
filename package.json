@@ -5,20 +5,12 @@
   "main": "index.js",
   "scripts": {
     "dev": "next",
-    "build": "next build",
-    "start": "next start"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wagnerjps/nosconte.git"
+    "start": "next start",
+    "build": "next build"
   },
   "keywords": [],
-  "author": "Wagner Silva (WSDev)",
+  "author": "Wagner Silva (wjps.com)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/wagnerjps/nosconte/issues"
-  },
-  "homepage": "https://github.com/wagnerjps/nosconte#readme",
   "dependencies": {
     "autoprefixer": "^9.8.4",
     "child_process": "^1.0.2",
