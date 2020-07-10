@@ -1,0 +1,27 @@
+{
+  "name": "nosconte",
+  "version": "1.0.0",
+  "description": "Aplicação para coletar sugestões e críticas de clientes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagnerjps/nosconte.git"
+  },
+  "keywords": [],
+  "author": "Wagner Silva (WSDev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wagnerjps/nosconte/issues"
+  },
+  "homepage": "https://github.com/wagnerjps/nosconte#readme",
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
