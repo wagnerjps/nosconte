@@ -1,5 +1,4 @@
 import React from 'react'
-import Link from 'next/link'
 
 const Footer = () => {
     return(
@@ -7,8 +6,8 @@ const Footer = () => {
             <div className='container mx-auto text-center'>
                 <div className='font-bold text-white'>
                     Projeto desenvolvido por:{' '}
-                        <a className='hover:underline' href='https://www.linkedin.com/in/wagnerjps/'>Wagner Silva</a>{' '}/{' '} 
-                        <a className='hover:underline' href='https://www.linkedin.com/in/wagnerjps/'>LinkedIn</a>{' '}/{' '}
+                        <a className='hover:underline' href='https://www.facebook.com/wagnerjps'>Wagner Silva</a>{' '}/{' '} 
+                        <a className='hover:underline' href='https://www.linkedin.com/in/wagnerjps'>LinkedIn</a>{' '}/{' '}
                         <a className='hover:underline' href='https://github.com/wagnerjps'>Github</a>
                 </div>
                 <div className='mt-4 mx-auto align-middle'>

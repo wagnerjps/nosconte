@@ -6,7 +6,7 @@ const Contato = () => {
 
     return (
             <div className='text-gray-700 body-font relative'>
-                <PageTitle title='Teste' />
+                <PageTitle title='Contato' />
                 <div className='container px-5 py-4 mx-auto'>
                     {/** BLOCO DE SAUDAÇÃO */}
                     <div className='flex flex-col text-center w-full mb-12'>
@@ -31,6 +31,9 @@ const Contato = () => {
                                             href='https://api.whatsapp.com/send?phone=5511981603426'>
                                             (11) 9 8160-3426.
                                         </a>
+                                    </p>
+                                    <p className='pt-4'>
+                                        Agradecemos seu contato!
                                     </p>
                                 </font>
                             </font>

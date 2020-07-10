@@ -81,7 +81,6 @@ const Pesquisa = () => {
                         </p>
                     </div>
                     {/** BLOCO DE SAUDAÇÃO */}
-
                     {/** BLOCO DE FORMULÁRIO */
                     !sucess &&
                     <div className='lg:w-1/2 md:w-2/3 mx-auto'>
@@ -99,8 +98,6 @@ const Pesquisa = () => {
                                     })}
                                 </div>
                                 }
-                                
-                                
                                 <label className='font-bold'>Nome:</label>
                                 <input 
                                     type='text' 

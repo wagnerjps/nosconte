@@ -1,7 +1,7 @@
 {
   "name": "nosconte",
   "version": "1.0.0",
-  "description": "Aplicação para coletar sugestões e críticas de clientes",
+  "description": "Aplicação de opnião, sugestões e críticas de clientes",
   "main": "index.js",
   "scripts": {
     "dev": "next",

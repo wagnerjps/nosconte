@@ -54,3 +54,6 @@ Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](LICENSE.md) 
 
 ## Agradecimentos especiais
 Queria agradecer a equipe da [DevPleno](https://devpleno.com) e em especial ao professor [Túlio Faria](https://tuliofaria.dev/) pela decicação e qualidade na sua forma de ensinar. Obrigado!
+
+## COMERCIAL
+Em breve está disponível comercialmente
