@@ -11,9 +11,13 @@ const Footer = () => {
                         <a className='hover:underline' href='https://www.linkedin.com/in/wagnerjps/'>LinkedIn</a>{' '}/{' '}
                         <a className='hover:underline' href='https://github.com/wagnerjps'>Github</a>
                 </div>
-                <div className='mt-4'>
-                    <img className='mx-auto inline px-32' src='/logo_semana_fsm.png' alt='Semana Fullsctack Master' />
-                    <img className='mx-auto inline px-32' src='/logo_devpleno.png' alt='DevPleno' />
+                <div className='mt-4 mx-auto'>
+                    <p className='font-sans text-3xl font-bold text-blue-400 text-center mx-auto'>
+                        <img className='mx-auto block inline w-12 h-12 mr-2' src='/w.png' alt='WS Dev' />
+                        <span className='text-green-500'>W</span>ag <span className='text-green-500'>D</span>ev
+                    </p>
+                    
+                    
                 </div>
             </div>
         </div>

@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import { Link } from 'next/link'
 import PageTitle from '../components/PageTitle'
 
 const Contato = () => {
@@ -17,8 +18,20 @@ const Contato = () => {
                         <p className='lg:w-2/3 mx-auto leading-relaxed text-base'>
                             <font style={{  verticalAlign: 'inherit' }}>
                                 <font style={{  verticalAlign: 'inherit' }}>
-                                    <p>Entre em contato pelo emmail wagnerjps@gmail.com.</p>
-                                    <p>Ou pelo número (11) 9 8160-3426.</p>
+                                    <p>Entre em contato pelo emmail{' '} 
+                                        <a 
+                                            className='text-blue-400'
+                                            href='mailto:wagnerjps@gmail.com?subject=Contato Nos Conte%20Deixe sua mensagem'>
+                                        wagnerjps@gmail.com.
+                                        </a>
+                                    </p>
+                                    <p>Ou pelo número:{' '}
+                                        <a 
+                                            className='text-blue-400'
+                                            href='https://api.whatsapp.com/send?phone=5511981603426'>
+                                            (11) 9 8160-3426.
+                                        </a>
+                                    </p>
                                 </font>
                             </font>
                         </p>
