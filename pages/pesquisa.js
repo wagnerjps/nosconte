@@ -62,7 +62,7 @@ const Pesquisa = () => {
         <React.Fragment>
             {/* BLOCO INSPIRADO EM MERTJF */}
             <div className='text-gray-700 body-font relative'>
-                <PageTitle title='Teste' />
+                <PageTitle title='Pesquisa' />
                 <div className='container px-5 py-4 mx-auto'>
                     {/** BLOCO DE SAUDAÇÃO */}
                     <div className='flex flex-col text-center w-full mb-12'>
