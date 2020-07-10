@@ -11,10 +11,12 @@ const Footer = () => {
                         <a className='hover:underline' href='https://www.linkedin.com/in/wagnerjps/'>LinkedIn</a>{' '}/{' '}
                         <a className='hover:underline' href='https://github.com/wagnerjps'>Github</a>
                 </div>
-                <div className='mt-4 mx-auto'>
-                    <p className='font-sans text-3xl font-bold text-blue-400 text-center mx-auto'>
-                        <img className='mx-auto block inline w-12 h-12 mr-2' src='/w.png' alt='WS Dev' />
-                        <span className='text-green-500'>W</span>ag <span className='text-green-500'>D</span>ev
+                <div className='mt-4 mx-auto align-middle'>
+                    <p className='block font-sans text-3xl font-bold text-blue-400 text-center mx-auto'>
+                        <img className='block inline w-12 h-12 mr-2' src='/w.png' alt='WS Dev' />
+                        <span className='mt-2'>
+                        <span className='text-green-500 mt-4'>W</span>ag <span className='text-green-500'>D</span>ev
+                        </span>
                     </p>
                     
                     
